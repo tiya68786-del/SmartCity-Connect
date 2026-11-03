@@ -1,0 +1,6 @@
+{
+  "name":"smartcity-connect","private":true,"version":"1.0.0","type":"module",
+  "scripts":{"dev":"vite --host 0.0.0.0","build":"vite build","preview":"vite preview"},
+  "dependencies":{"@vitejs/plugin-react":"latest","vite":"latest","react":"latest","react-dom":"latest","react-router-dom":"latest","lucide-react":"latest","recharts":"latest","react-leaflet":"latest","leaflet":"latest","react-hook-form":"latest","zod":"latest","@hookform/resolvers":"latest","react-hot-toast":"latest"},
+  "devDependencies":{"tailwindcss":"^3.4.17","postcss":"latest","autoprefixer":"latest"}
+}
